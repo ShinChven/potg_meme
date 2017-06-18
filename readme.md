@@ -17,6 +17,9 @@ Please install only from [Google Play Store](https://play.google.com/store/apps/
 ### STORAGE USAGE AND BACK UP
 - This app does not provide online functions, and it will not back up your memes, please back up them with other apps like Google Photos or ONEDRIVE yourself.
 
+### LOCATION USAGE
+- One of Admob's requirements.
+
 ### ANALYTICS
 Starting from v1.3.3, the app collects anonymous informations to help developer know how people are using it. No privacy information collected.
 
