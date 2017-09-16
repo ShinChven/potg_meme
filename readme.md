@@ -21,7 +21,7 @@ Please install only from [Google Play Store](https://play.google.com/store/apps/
 - One of Admob's requirements.
 
 ### ANALYTICS
-Starting from v1.3.3, the app collects anonymous informations to help developer know how people are using it. No privacy are information collected.
+Starting from v1.3.3, the app collects anonymous informations to help developer know how people are using it. It will not collect privacy information.
 
 ### CONTACT ME
 shinchven#gmail.com
