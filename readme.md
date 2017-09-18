@@ -1,8 +1,8 @@
 # PLAY OF THE GAME MEME - OVERWATCH FAN APP
 
-<div style="text-align:center;width:100%">
+<p align="center">
 <img src="images/ic_launcher_round.png" />
-</div>
+</p>
 
 ## INTRODUCTION
 - This is an meme generator app inspired by OVERWATCH PLAY OF THE GAME highlight scene. 
