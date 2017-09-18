@@ -1,5 +1,9 @@
 # PLAY OF THE GAME MEME - OVERWATCH FAN APP
 
+<div style="text-align:center">
+<img src="images/ic_launcher_round.png" />
+</div>
+
 ## INTRODUCTION
 - This is an meme generator app inspired by OVERWATCH PLAY OF THE GAME highlight scene. 
 - You can make a highlight screenshot from your own photos and images.
@@ -39,7 +43,7 @@
     - Nexus 5 API 24
     - Nexus 5 API 25
     - Nexus 6P API 26
-- Due to limited budget, there are won't any further test.
+- Due to limited budget, there are won't any more test device.
 
 ## CONTACT ME
 shinchven#gmail.com
