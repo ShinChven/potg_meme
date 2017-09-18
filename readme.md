@@ -1,6 +1,6 @@
 # PLAY OF THE GAME MEME - OVERWATCH FAN APP
 
-<div style="text-align:center">
+<div style="text-align:center;width:100%">
 <img src="images/ic_launcher_round.png" />
 </div>
 
