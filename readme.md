@@ -43,7 +43,6 @@
     - Nexus 5 API 24
     - Nexus 5 API 25
     - Nexus 6P API 26
-- Due to limited budget, there are won't any more test device.
 
 ## CONTACT ME
 shinchven#gmail.com
