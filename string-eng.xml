@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">POTG Meme</string>
+    <string name="permission_checker_title">Check the permission</string>
+    <string name="string_help_text">This app needs your permissions to make memes.</string>
+    <string name="deny">deny</string>
+    <string name="go_to_settings">grant permissions</string>
+    <string name="make_your_own_potg">MAKE YOUR OWN PLAY OF THE GAME</string>
+    <string name="ui_potg">"PLAY OF THE GAME "</string>
+    <string name="ui_your_name">"YOUR NAME "</string>
+    <string name="ui_your_character">"AS YOUR HERO "</string>
+    <string name="potg">PLAY OF THE GAME</string>
+    <string name="your_name">YOUR NAME</string>
+    <string name="your_character">AS YOUR HERO</string>
+    <string name="image_saved_to_gallery_at">"Image saved to gallery @ "</string>
+    <string name="share_image">Share image</string>
+    <string name="image_saving_failed">Image saving failed, please check storage permissions.</string>
+    <string name="image_cache_creating_failed">Failed to create image cache, please check storage permissions.</string>
+    <string name="start_camera_failed">Sorry, camera starting failed.</string>
+    <string name="start_camera_failed_check_for_permission">Sorry, camera starting failed with storage access problem.
+    </string>
+    <string name="font_not_found">Sorry, font not found.</string>
+    <string name="image_not_selected">No image selected</string>
+    <string name="image_cropping_failed">Image cropping failed</string>
+    <string name="btn_select">select</string>
+    <string name="btn_capture">capture</string>
+    <string name="btn_re_capture">re-cap</string>
+    <string name="btn_save">save</string>
+    <string name="btn_share">share</string>
+    <string name="dialog_tips">"\n
+        1. Choose a image or capture a photo.\n
+        2. Fill your name and character.\n
+        3. Drag to move the texts.\n
+        4. Save or share your own POTG! 🎉\n
+        @ShinChven if you liked it."
+    </string>
+    <string name="show_tips">tips</string>
+    <string name="hint_potg">"PLAY OF THE GAME "</string>
+    <string name="hint_your_name">"YOUR NAME "</string>
+    <string name="hint_your_character">"YOUR HERO "</string>
+    <string name="tell_others">Bravo</string>
+    <string name="title_activity_intro">Intro</string>
+    <string name="as">"AS "</string>
+    <string name="readme">readme</string>
+    <string name="gallery">gallery</string>
+    <string name="action_set_language">LANGUAGE</string>
+    <string name="action_toggle_text">TOGGLE TEXT</string>
+    <string name="no_meme_hint">There is nothing to show here, \nfor you haven\'t created any POTG meme. \nPlease make some first.</string>
+    <string name="permission_requesting_description">This app requires some permissions to create and store your highlight scene. \nYou may need to allow them now or turn them on in app settings.</string>
+    <string name="camera">CAMERA</string>
+    <string name="storage">STORAGE</string>
+    <string name="content_description_image">image</string>
+    <string name="button_text_continue">CONTINUE</string>
+    <string name="pick_image">pick image</string>
+    <string name="remove_image">remove image</string>
+    <string name="new_app">NEW APP</string>
+</resources>
