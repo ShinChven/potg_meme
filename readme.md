@@ -15,7 +15,7 @@
 
 ## TRANSLATE THIS APP
 
-- You can help translate this app to your language by sending me a copy your [translation](https://raw.githubusercontent.com/ShinChven/potg_meme/master/string-eng.xml) to `shinchven#gmail.com`.
+- You can help translate this app to your language by sending me a copy your [translation](https://github.com/ShinChven/potg_meme/blob/master/string-eng.xml) to `shinchven#gmail.com`.
 - You name will be included to the app, but no translation fee will be guaranteed.
    
 ## PRIVACY
