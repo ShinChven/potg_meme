@@ -12,6 +12,11 @@
 ## DOWNLOAD
 - install from [Google Play Store](https://play.google.com/store/apps/details?id=net.atlassc.playofthegamememe)
 - install from [Cool Apk](https://www.coolapk.com/apk/159442)
+
+## TRANSLATE THIS APP
+
+- You can help translate this app to your language by sending me a copy your [translation](https://raw.githubusercontent.com/ShinChven/potg_meme/master/string-eng.xml) to `shinchven#gmail.com`.
+- You name will be included to the app, but no translation fee will be guaranteed.
    
 ## PRIVACY
 
